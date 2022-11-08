@@ -1,1 +1,1 @@
-# sorting_algorithms
+prince edeh is a contributor to this project
